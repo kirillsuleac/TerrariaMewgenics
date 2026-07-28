@@ -1,0 +1,3 @@
+displayName = Mewgenics
+author = EbinGames
+version = 0.1
